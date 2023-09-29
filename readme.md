@@ -2,8 +2,8 @@
 
 In this repository I will be uploading the data and information of the Azure resources implemented as ARM templates to deploy these projects and apply the acquired knowledge:
 
-Font: [Study guide for Exam AZ-104: Microsoft Azure Administrator](https://learn.microsoft.com/certifications/resources/study-guides/az-104)
-Acknowledgments and credits to: [Gwyneth Peña-Siguenza] (https://github.com/madebygps)
+Source: [Study guide for Exam AZ-104: Microsoft Azure Administrator](https://learn.microsoft.com/certifications/resources/study-guides/az-104)
+Acknowledgments and credits to: [Gwyneth Peña-Siguenza](https://github.com/madebygps)
 
 ## Projects
 
